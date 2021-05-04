@@ -1,0 +1,9 @@
+﻿  CommonFunc.cpp
+D:\FlappyBird\FlappyBird\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+D:\FlappyBird\FlappyBird\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+D:\FlappyBird\FlappyBird\CommonFunc.cpp(44,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\FlappyBird\FlappyBird\CommonFunc.cpp(45,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\FlappyBird\FlappyBird\CommonFunc.cpp(46,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\FlappyBird\FlappyBird\CommonFunc.cpp(47,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\FlappyBird\FlappyBird\CommonFunc.cpp(28,18): warning C4101: 'menu': unreferenced local variable
+  FlappyBird.vcxproj -> D:\FlappyBird\Debug\FlappyBird.exe
